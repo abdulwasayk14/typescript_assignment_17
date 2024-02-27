@@ -1,1 +1,1 @@
-# typescript_assignment_17
+# typescript_assignment_17_Shrinking_Guest_List
